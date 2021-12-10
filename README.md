@@ -7,3 +7,5 @@ Wernicke's aphasia — also known as fluent aphasia — is the result of damage 
 Aphasic Translator explores the pseudo-random nature of this phenomenon. The app receives audio input from the user and employs speech-recognition to analyze the content of speech. It algorithmically replaces some words with others, while preserving overall grammatical structure. The app produces changes with varying levels of randomness in an attempt to mimic the way someone with Wernicke's aphasia might speak. The output can range from funny, to poignant, to bizarre, forcing the viewer to shift perspective and draw new linguistic associations.
 
 Author: Cassie Smith
+
+*Note: the app currently runs best in Chrome*

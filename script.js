@@ -116,6 +116,7 @@ function runSpeechRecognition() {
 
   $("#stop-btn").click(function(event) {
    recognition.stop();
+   $("#words").text("");
   });
 
 }
